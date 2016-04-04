@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+
+    <!-- Resources for SecondActivity -->
+    <string name="text1">Text 1</string>
+    <string name="text2">Text 2</string>
+</resources>
